@@ -2,6 +2,10 @@
 
 A modern fitness web application that helps users explore exercises based on different muscle groups and build effective workout routines.
 
+## 🚀 Live Demo
+Check out the live version of the project here:  
+👉 https://elnagar-gym.vercel.app
+
 ## 🚀 Features
 
 * Browse exercises by **muscle groups**
@@ -63,9 +67,6 @@ npm run dev
 ## 🎯 Purpose of the Project
 
 This project was built to practice **React development**, component structure, and filtering data in a clean and interactive user interface.
-
-## 🚀 Live Demo
-🔗 https://elnagar-gym.vercel.app
 
 ## 👨‍💻 Author
 
