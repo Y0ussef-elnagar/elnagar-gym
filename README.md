@@ -1,16 +1,71 @@
-# React + Vite
+# 🏋️‍♂️ Gym App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern fitness web application that helps users explore exercises based on different muscle groups and build effective workout routines.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Browse exercises by **muscle groups**
+* Filter workouts easily
+* Clean and responsive **UI**
+* Simple and fast user experience
+* Built with modern **React** tools
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* JavaScript
+* HTML5
+* CSS3 / Tailwind
+* Vite
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+gym-app
+│
+├── public
+├── src
+│   ├── components
+│   ├── data
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+└── README.md
+```
+
+## ⚡ Installation
+
+Clone the repository:
+
+```
+git clone https://github.com/Y0ussef-elnagar/elnagar-gym.git
+```
+
+Go to the project folder:
+
+```
+cd elnagar-gym
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
+Run the project:
+
+```
+npm run dev
+```
+
+## 🎯 Purpose of the Project
+
+This project was built to practice **React development**, component structure, and filtering data in a clean and interactive user interface.
+
+## 👨‍💻 Author
+
+**Youssef Elnagar**
+
+* GitHub: https://github.com/Y0ussef-elnagar
