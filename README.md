@@ -64,6 +64,9 @@ npm run dev
 
 This project was built to practice **React development**, component structure, and filtering data in a clean and interactive user interface.
 
+## 🚀 Live Demo
+🔗 https://elnagar-gym.vercel.app
+
 ## 👨‍💻 Author
 
 **Youssef Elnagar**
